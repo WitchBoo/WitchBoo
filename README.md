@@ -20,4 +20,4 @@ Talk to me about:
 - Desktop application development using **C# and Kotlin** (Still learning).
 - Currently learning **Kotlin**.
 ##
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=witchboo&show_icons=true&locale=en" alt="witchboo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=witchboo&count_private=true&show_icons=true&locale=en" alt="witchboo" />
