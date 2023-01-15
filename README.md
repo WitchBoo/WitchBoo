@@ -10,7 +10,7 @@
 ![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ](https://steamcommunity.com/id/witchboo/)
 
-I'm Luís Fabiano. I'm from Santa Catarina, Brazil and currently coding as a hobby 👨‍💻. I'm passionate about learning new things, solving problems and expanding my knowledge. And a big minecraft enthusiast 🧱
+I'm Luís Mendes. I'm from Santa Catarina, Brazil and currently coding as a hobby 👨‍💻. I'm passionate about learning new things, solving problems and expanding my knowledge. And a big minecraft enthusiast 🧱
 
 ## ⚡ Technologies
 Talk to me about:
