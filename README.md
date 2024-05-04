@@ -16,7 +16,7 @@ Talk to me about:
 - Frontend development using **HTML, Javascript, CSS**.
 - Backend development using **Java**.
 - Relational Database Systems.
-- Desktop application development using **C# and Kotlin** (Still learning).
+- Desktop application development using **C# and Kotlin**.
 - Currently learning **Kotlin**.
 ##
 <img align="center" src="https://github-readme-stats-witchboo.vercel.app/api?username=witchboo&count_private=true&show_icons=true&locale=en" alt="witchboo" />
