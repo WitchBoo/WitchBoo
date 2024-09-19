@@ -1,7 +1,7 @@
 
 <h2> Hello There! <img src="https://i.imgur.com/1EbrBcz.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:soconfirmo@hotmail.com)](mailto:soconfirmo@hotmail.com)
 [![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/witchboo/)
